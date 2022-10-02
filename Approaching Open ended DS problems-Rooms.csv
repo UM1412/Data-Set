@@ -1,0 +1,16 @@
+RoomNumber,NoOfStudent,Departemet,Occupied
+103,5,Science,Y
+143,4,none,N
+643,3,Arts,0
+,5,Com,Y
+433,2,Diploma,N
+543,empty,N\A,Y
+342,,Science,N
+,33,Diploma,--
+436,,0,N
+none,4,Arts,Y
+544,55,Science,N
+343,3,none,Y
+245,4,Diploma,N
+,97,Arts,n\a
+442,1,Science,None
